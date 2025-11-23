@@ -1,4 +1,5 @@
 # Phantom Waves
+![GUI](https://raw.githubusercontent.com/saefulbarkah/phantom/refs/heads/main/GUI.png)
 
 ## Features
 
