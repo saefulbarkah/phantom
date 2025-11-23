@@ -88,3 +88,7 @@
 - Show Box
 - Debug Entity
 - ESP Filters (animals, monsters, treasure, etc.)
+
+
+## Interested?
+DM me on Discord: **@xoph229**
